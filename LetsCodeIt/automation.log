@@ -1,0 +1,358 @@
+10/13/2019 01:02:09 PM - pageBase - INFO: element found
+10/13/2019 01:02:09 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:02:14 PM - pageBase - INFO: element found
+10/13/2019 01:02:14 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:02:14 PM - pageBase - INFO: element found
+10/13/2019 01:02:14 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:02:14 PM - pageBase - INFO: element found
+10/13/2019 01:02:17 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:02:20 PM - pageBase - ERROR: Element not found
+10/13/2019 01:02:20 PM - pageBase - ERROR: Element not found with locator:img.gravatar
+10/13/2019 01:02:22 PM - pageBase - INFO: element found
+10/13/2019 01:02:22 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:02:27 PM - pageBase - INFO: element found
+10/13/2019 01:02:27 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:02:27 PM - pageBase - INFO: element found
+10/13/2019 01:02:27 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:02:27 PM - pageBase - INFO: element found
+10/13/2019 01:02:36 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:02:36 PM - pageBase - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+10/13/2019 01:02:36 PM - pageBase - INFO: Element appeared on the web page
+10/13/2019 01:02:36 PM - pageBase - INFO: Element Found
+10/13/2019 01:04:50 PM - pageBase - INFO: element found
+10/13/2019 01:04:50 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:04:56 PM - pageBase - INFO: element found
+10/13/2019 01:04:56 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:04:56 PM - pageBase - INFO: element found
+10/13/2019 01:04:56 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:04:56 PM - pageBase - INFO: element found
+10/13/2019 01:04:58 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:05:01 PM - pageBase - ERROR: Element not found
+10/13/2019 01:05:01 PM - pageBase - ERROR: Element not found with locator:img.gravatar
+10/13/2019 01:05:03 PM - pageBase - INFO: element found
+10/13/2019 01:05:03 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:05:07 PM - pageBase - INFO: element found
+10/13/2019 01:05:07 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:05:07 PM - pageBase - INFO: element found
+10/13/2019 01:05:07 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:05:07 PM - pageBase - INFO: element found
+10/13/2019 01:05:12 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:05:12 PM - pageBase - INFO: Element Found
+10/13/2019 01:08:28 PM - pageBase - INFO: element found
+10/13/2019 01:08:29 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:08:33 PM - pageBase - INFO: element found
+10/13/2019 01:08:33 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:08:33 PM - pageBase - INFO: element found
+10/13/2019 01:08:34 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:08:34 PM - pageBase - INFO: element found
+10/13/2019 01:08:36 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:08:36 PM - pageBase - INFO: element found
+10/13/2019 01:08:36 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 01:08:39 PM - pageBase - INFO: element found
+10/13/2019 01:08:39 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:08:41 PM - pageBase - INFO: element found
+10/13/2019 01:08:42 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:08:42 PM - pageBase - INFO: element found
+10/13/2019 01:08:42 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:08:42 PM - pageBase - INFO: element found
+10/13/2019 01:08:45 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:08:45 PM - pageBase - INFO: Element Found
+10/13/2019 01:11:46 PM - pageBase - INFO: element found
+10/13/2019 01:11:46 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:11:56 PM - pageBase - INFO: element found
+10/13/2019 01:11:56 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:11:56 PM - pageBase - INFO: element found
+10/13/2019 01:11:56 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:11:56 PM - pageBase - INFO: element found
+10/13/2019 01:11:59 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:11:59 PM - pageBase - INFO: element found
+10/13/2019 01:12:00 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 01:12:02 PM - pageBase - INFO: element found
+10/13/2019 01:12:02 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:12:07 PM - pageBase - INFO: element found
+10/13/2019 01:12:07 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:12:07 PM - pageBase - INFO: element found
+10/13/2019 01:12:07 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:12:07 PM - pageBase - INFO: element found
+10/13/2019 01:12:13 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:12:14 PM - pageBase - INFO: Element Found
+10/13/2019 01:16:06 PM - pageBase - INFO: element found
+10/13/2019 01:16:06 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:16:12 PM - pageBase - INFO: element found
+10/13/2019 01:16:12 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:16:12 PM - pageBase - INFO: element found
+10/13/2019 01:16:12 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:16:12 PM - pageBase - INFO: element found
+10/13/2019 01:16:15 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:16:15 PM - pageBase - INFO: element found
+10/13/2019 01:16:15 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 01:16:17 PM - pageBase - INFO: element found
+10/13/2019 01:16:17 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:16:21 PM - pageBase - INFO: element found
+10/13/2019 01:16:22 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:16:22 PM - pageBase - INFO: element found
+10/13/2019 01:16:22 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:16:22 PM - pageBase - INFO: element found
+10/13/2019 01:16:25 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:16:25 PM - pageBase - INFO: Element Found
+10/13/2019 01:18:33 PM - pageBase - INFO: element found
+10/13/2019 01:18:33 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:18:39 PM - pageBase - INFO: element found
+10/13/2019 01:18:39 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:18:39 PM - pageBase - INFO: element found
+10/13/2019 01:18:40 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:18:40 PM - pageBase - INFO: element found
+10/13/2019 01:18:43 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:18:43 PM - pageBase - INFO: element found
+10/13/2019 01:18:43 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 01:18:44 PM - pageBase - INFO: element found
+10/13/2019 01:18:44 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:18:47 PM - pageBase - INFO: element found
+10/13/2019 01:18:47 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:18:47 PM - pageBase - INFO: element found
+10/13/2019 01:18:47 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:18:47 PM - pageBase - INFO: element found
+10/13/2019 01:18:54 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:18:54 PM - pageBase - INFO: Element Found
+10/13/2019 01:21:04 PM - pageBase - INFO: element found
+10/13/2019 01:21:04 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:21:09 PM - pageBase - INFO: element found
+10/13/2019 01:21:09 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:21:09 PM - pageBase - INFO: element found
+10/13/2019 01:21:09 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:21:09 PM - pageBase - INFO: element found
+10/13/2019 01:21:11 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:21:11 PM - pageBase - INFO: element found
+10/13/2019 01:21:11 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 01:21:14 PM - pageBase - INFO: element found
+10/13/2019 01:21:14 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 01:21:16 PM - pageBase - INFO: element found
+10/13/2019 01:21:16 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 01:21:16 PM - pageBase - INFO: element found
+10/13/2019 01:21:16 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 01:21:16 PM - pageBase - INFO: element found
+10/13/2019 01:21:21 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 01:21:21 PM - pageBase - INFO: Element Found
+10/13/2019 03:38:10 PM - pageBase - INFO: element found
+10/13/2019 03:38:10 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 03:38:15 PM - pageBase - INFO: element found
+10/13/2019 03:38:15 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 03:38:15 PM - pageBase - INFO: element found
+10/13/2019 03:38:16 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 03:38:16 PM - pageBase - INFO: element found
+10/13/2019 03:38:18 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 03:38:18 PM - pageBase - INFO: element found
+10/13/2019 03:38:18 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 03:38:21 PM - pageBase - ERROR: Element not found
+10/13/2019 03:38:21 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 03:38:21 PM - pageBase - INFO: element found
+10/13/2019 03:38:22 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 03:38:22 PM - pageBase - INFO: element found
+10/13/2019 03:38:22 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 03:38:22 PM - pageBase - INFO: element found
+10/13/2019 03:38:22 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 03:38:48 PM - pageBase - INFO: element found
+10/13/2019 03:38:48 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 03:38:54 PM - pageBase - INFO: element found
+10/13/2019 03:38:54 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 03:38:54 PM - pageBase - INFO: element found
+10/13/2019 03:38:54 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 03:38:54 PM - pageBase - INFO: element found
+10/13/2019 03:38:56 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 03:38:56 PM - pageBase - INFO: element found
+10/13/2019 03:38:56 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 03:38:59 PM - pageBase - ERROR: Element not found
+10/13/2019 03:38:59 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 03:38:59 PM - pageBase - INFO: element found
+10/13/2019 03:38:59 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 03:39:00 PM - pageBase - INFO: element found
+10/13/2019 03:39:00 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 03:39:00 PM - pageBase - INFO: element found
+10/13/2019 03:39:00 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 03:44:14 PM - pageBase - INFO: element found
+10/13/2019 03:44:14 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 03:44:20 PM - pageBase - INFO: element found
+10/13/2019 03:44:20 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 03:44:20 PM - pageBase - INFO: element found
+10/13/2019 03:44:21 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 03:44:21 PM - pageBase - INFO: element found
+10/13/2019 03:44:21 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 03:44:21 PM - pageBase - INFO: element found
+10/13/2019 03:44:21 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 03:44:21 PM - pageBase - INFO: element found
+10/13/2019 03:44:24 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 03:44:24 PM - pageBase - INFO: element found
+10/13/2019 03:44:24 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 03:44:27 PM - pageBase - ERROR: Element not found
+10/13/2019 03:44:27 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 03:44:27 PM - pageBase - INFO: element found
+10/13/2019 03:44:27 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 03:44:27 PM - pageBase - INFO: element found
+10/13/2019 03:44:27 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 03:44:27 PM - pageBase - INFO: element found
+10/13/2019 03:44:27 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 03:44:27 PM - pageBase - INFO: element found
+10/13/2019 03:44:27 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 03:44:27 PM - pageBase - INFO: element found
+10/13/2019 03:44:34 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 03:44:34 PM - pageBase - INFO: Element Found
+10/13/2019 04:06:36 PM - pageBase - INFO: element found
+10/13/2019 04:06:36 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 04:06:42 PM - pageBase - INFO: element found
+10/13/2019 04:06:42 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 04:06:42 PM - pageBase - INFO: element found
+10/13/2019 04:06:42 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 04:06:42 PM - pageBase - INFO: element found
+10/13/2019 04:06:42 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 04:06:42 PM - pageBase - INFO: element found
+10/13/2019 04:06:42 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 04:06:42 PM - pageBase - INFO: element found
+10/13/2019 04:06:45 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 04:06:45 PM - pageBase - INFO: element found
+10/13/2019 04:06:45 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 04:06:48 PM - pageBase - ERROR: Element not found
+10/13/2019 04:06:48 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 04:06:48 PM - pageBase - INFO: element found
+10/13/2019 04:06:49 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 04:06:49 PM - pageBase - INFO: element found
+10/13/2019 04:06:49 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 04:06:49 PM - pageBase - INFO: element found
+10/13/2019 04:06:49 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 04:06:49 PM - pageBase - INFO: element found
+10/13/2019 04:06:49 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 04:06:49 PM - pageBase - INFO: element found
+10/13/2019 04:06:56 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 04:06:56 PM - pageBase - INFO: Element Found
+10/13/2019 06:17:23 PM - pageBase - INFO: element found
+10/13/2019 06:17:23 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 06:17:40 PM - pageBase - INFO: element found
+10/13/2019 06:17:40 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 06:17:40 PM - pageBase - INFO: element found
+10/13/2019 06:17:40 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 06:17:40 PM - pageBase - INFO: element found
+10/13/2019 06:17:40 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 06:17:40 PM - pageBase - INFO: element found
+10/13/2019 06:17:40 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 06:17:40 PM - pageBase - INFO: element found
+10/13/2019 06:17:50 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 06:17:50 PM - pageBase - INFO: element found
+10/13/2019 06:17:50 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 06:17:53 PM - pageBase - ERROR: Element not found
+10/13/2019 06:17:53 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 06:17:53 PM - pageBase - INFO: element found
+10/13/2019 06:17:53 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 06:17:53 PM - pageBase - INFO: element found
+10/13/2019 06:17:54 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 06:17:54 PM - pageBase - INFO: element found
+10/13/2019 06:17:54 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 06:17:54 PM - pageBase - INFO: element found
+10/13/2019 06:17:54 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 06:17:54 PM - pageBase - INFO: element found
+10/13/2019 06:18:01 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 06:19:03 PM - pageBase - INFO: element found
+10/13/2019 06:19:04 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 06:19:11 PM - pageBase - INFO: element found
+10/13/2019 06:19:11 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 06:19:11 PM - pageBase - INFO: element found
+10/13/2019 06:19:12 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 06:19:12 PM - pageBase - INFO: element found
+10/13/2019 06:19:12 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 06:19:12 PM - pageBase - INFO: element found
+10/13/2019 06:19:12 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 06:19:12 PM - pageBase - INFO: element found
+10/13/2019 06:19:14 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 06:19:14 PM - pageBase - INFO: element found
+10/13/2019 06:19:14 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 06:19:17 PM - pageBase - ERROR: Element not found
+10/13/2019 06:19:17 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 06:19:17 PM - pageBase - INFO: element found
+10/13/2019 06:19:17 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 06:19:17 PM - pageBase - INFO: element found
+10/13/2019 06:19:18 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 06:19:18 PM - pageBase - INFO: element found
+10/13/2019 06:19:18 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 06:19:18 PM - pageBase - INFO: element found
+10/13/2019 06:19:18 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 06:19:18 PM - pageBase - INFO: element found
+10/13/2019 06:19:24 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 06:24:02 PM - pageBase - INFO: element found
+10/13/2019 06:24:02 PM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/13/2019 06:24:18 PM - pageBase - INFO: element found
+10/13/2019 06:24:18 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 06:24:18 PM - pageBase - INFO: element found
+10/13/2019 06:24:18 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 06:24:18 PM - pageBase - INFO: element found
+10/13/2019 06:24:18 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 06:24:18 PM - pageBase - INFO: element found
+10/13/2019 06:24:18 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 06:24:18 PM - pageBase - INFO: element found
+10/13/2019 06:24:22 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 06:24:22 PM - pageBase - INFO: element found
+10/13/2019 06:24:22 PM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/13/2019 06:24:25 PM - pageBase - ERROR: Element not found
+10/13/2019 06:24:25 PM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/13/2019 06:24:25 PM - pageBase - INFO: element found
+10/13/2019 06:24:25 PM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/13/2019 06:24:25 PM - pageBase - INFO: element found
+10/13/2019 06:24:25 PM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/13/2019 06:24:25 PM - pageBase - INFO: element found
+10/13/2019 06:24:25 PM - pageBase - INFO: Cleared field with locator:#user_password
+10/13/2019 06:24:25 PM - pageBase - INFO: element found
+10/13/2019 06:24:25 PM - pageBase - INFO: sent data on element with locator: #user_password
+10/13/2019 06:24:25 PM - pageBase - INFO: element found
+10/13/2019 06:24:30 PM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/13/2019 06:24:30 PM - pageBase - INFO: Element Found
+10/16/2019 09:37:40 AM - pageBase - INFO: element found
+10/16/2019 09:37:42 AM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/16/2019 09:37:59 AM - pageBase - INFO: element found
+10/16/2019 09:38:00 AM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/16/2019 09:38:00 AM - pageBase - INFO: element found
+10/16/2019 09:38:02 AM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/16/2019 09:38:02 AM - pageBase - INFO: element found
+10/16/2019 09:38:02 AM - pageBase - INFO: Cleared field with locator:#user_password
+10/16/2019 09:38:02 AM - pageBase - INFO: element found
+10/16/2019 09:38:02 AM - pageBase - INFO: sent data on element with locator: #user_password
+10/16/2019 09:38:02 AM - pageBase - INFO: element found
+10/16/2019 09:38:16 AM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/16/2019 09:38:16 AM - pageBase - INFO: element found
+10/16/2019 09:38:17 AM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/16/2019 09:38:20 AM - pageBase - ERROR: Element not found
+10/16/2019 09:38:20 AM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/16/2019 09:38:23 AM - pageBase - INFO: element found
+10/16/2019 09:38:23 AM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/16/2019 09:38:23 AM - pageBase - INFO: element found
+10/16/2019 09:38:23 AM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/16/2019 09:38:23 AM - pageBase - INFO: element found
+10/16/2019 09:38:23 AM - pageBase - INFO: Cleared field with locator:#user_password
+10/16/2019 09:38:23 AM - pageBase - INFO: element found
+10/16/2019 09:38:23 AM - pageBase - INFO: sent data on element with locator: #user_password
+10/16/2019 09:38:23 AM - pageBase - INFO: element found
+10/16/2019 09:38:36 AM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/16/2019 09:38:36 AM - pageBase - INFO: Element Found
+10/16/2019 09:47:32 AM - pageBase - INFO: element found
+10/16/2019 09:47:32 AM - pageBase - INFO: Clicked on element with locator: [href='/sign_in']
+10/16/2019 09:47:39 AM - pageBase - INFO: element found
+10/16/2019 09:47:39 AM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/16/2019 09:47:39 AM - pageBase - INFO: element found
+10/16/2019 09:47:39 AM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/16/2019 09:47:39 AM - pageBase - INFO: element found
+10/16/2019 09:47:39 AM - pageBase - INFO: Cleared field with locator:#user_password
+10/16/2019 09:47:39 AM - pageBase - INFO: element found
+10/16/2019 09:47:39 AM - pageBase - INFO: sent data on element with locator: #user_password
+10/16/2019 09:47:39 AM - pageBase - INFO: element found
+10/16/2019 09:47:42 AM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/16/2019 09:47:42 AM - pageBase - INFO: element found
+10/16/2019 09:47:42 AM - pageBase - INFO: Found Element with Locator :.alert.alert-danger and text :Invalid email or password.
+10/16/2019 09:47:45 AM - pageBase - ERROR: Element not found
+10/16/2019 09:47:45 AM - pageBase - ERROR: Cannot click on the element with locator: [href='/sign_in']
+10/16/2019 09:47:45 AM - pageBase - INFO: element found
+10/16/2019 09:47:45 AM - pageBase - INFO: Cleared field with locator:input[type='email']
+10/16/2019 09:47:45 AM - pageBase - INFO: element found
+10/16/2019 09:47:45 AM - pageBase - INFO: sent data on element with locator: input[type='email']
+10/16/2019 09:47:45 AM - pageBase - INFO: element found
+10/16/2019 09:47:46 AM - pageBase - INFO: Cleared field with locator:#user_password
+10/16/2019 09:47:46 AM - pageBase - INFO: element found
+10/16/2019 09:47:46 AM - pageBase - INFO: sent data on element with locator: #user_password
+10/16/2019 09:47:46 AM - pageBase - INFO: element found
+10/16/2019 09:47:51 AM - pageBase - INFO: Clicked on element with locator: input[type='submit']
+10/16/2019 09:47:51 AM - pageBase - INFO: Element Found
